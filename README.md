@@ -1,6 +1,6 @@
 # emotion_detection
 
-A new Flutter project.
+This is an ML based app which can detect emontion from a sentence using sentiment analysis model.
 
 ## Getting Started
 
